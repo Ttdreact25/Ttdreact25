@@ -6,7 +6,7 @@
 
 ### Enterprise Software Development • Mobile Apps • Cloud Solutions
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Building+Scalable+Applications;MERN+Stack+Experts;React+Native+%26+Expo+Developers;Python+%7C+PHP+Backend+Development;Cloud+Deployment+%26+Hosting+Support;Turning+Ideas+Into+Production+Software"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Building+Scalable+Applications;MERN+Stack+Experts;React+Native+%26+Expo+Developers;Python+%7C+PHP+Backend+Development;Cloud+Deployment+%26+Hosting+Support;Turning+Ideas+Into+Production+Software"/>
 
 <p>
 
@@ -74,8 +74,6 @@ We specialize in web applications, enterprise software, mobile apps, backend API
 
 ### ☁️ DevOps & Hosting
 
-- VPS Hosting
-- Linux Server
 - Docker
 - Nginx
 - Apache
