@@ -68,13 +68,11 @@ We specialize in web applications, enterprise software, mobile apps, backend API
 - Django
 - Flask
 - PHP
-- Laravel
 - MySQL
 - MongoDB
 
 ### ☁️ DevOps & Hosting
 
-- Docker
 - Nginx
 - Apache
 - SSL Configuration
